@@ -29,13 +29,13 @@ const HeroSection = () => {
                             <h1 className="text-2xl md:text-3xl font-heading font-bold tracking-wide text-foreground">
                                 Saif Sabbir
                             </h1>
-                            <p className="text-sm text-muted-foreground">Adjunct Lecturer</p>
+                            <p className="text-sm text-muted-foreground"> Lecturer</p>
                             <p className="text-sm text-muted-foreground">Department of Computer Science & Engineering</p>
                             <p className="text-sm text-muted-foreground">
                                 International Islamic University, Chittagong
                             </p>
                             <p className="text-sm text-muted-foreground">Kumira, Chattogram-4318, Bangladesh</p>
-                            <p className="text-sm text-muted-foreground">Email: <span className="text-blue-600 underline">saifsabbir.cuet18@gmail.com</span></p>
+                            <p className="text-sm text-muted-foreground">Email: <span className="text-blue-600 underline">saifsabbir.cuet18@gmail.com</span><span className="text-blue-600 underline">ssbsabbir@iiuc.ac.bd</span></p>
                         </div>
 
                         {/* Social Icons */}
@@ -58,7 +58,7 @@ const HeroSection = () => {
                     {/* Bio Content */}
                     <div className="lg:col-span-2 space-y-6 animate-fade-in md:max-w-11/12 text-center md:text-start">
                         <p className="text-lg leading-8 text-foreground/90 ">
-                            I am an adjunct faculty member in the{" "}
+                            I am serving as a Lecturer in the{" "}
                             <a href="#" className="text-link">
                                 Computer Science and Engineering Department
                             </a>{" "}
