@@ -50,5 +50,5 @@ bun dev
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MasadRayan/Sabbir-Ahmed_Nirjon_Portfolio.git
+git clone https://github.com/Sabbir-Saif/Saif_Sabbir_Portfolio.git
 cd sabbir-ahmed-nirjon
