@@ -35,7 +35,7 @@ const HeroSection = () => {
                                 International Islamic University, Chittagong
                             </p>
                             <p className="text-sm text-muted-foreground">Kumira, Chattogram-4318, Bangladesh</p>
-                            <p className="text-sm text-muted-foreground">Email: <span className="text-blue-600 underline">saifsabbir.cuet18@gmail.com</span><span className="text-blue-600 underline">ssbsabbir@iiuc.ac.bd</span></p>
+                            <p className="text-sm text-muted-foreground">Email: <span className="text-blue-600 underline">saifsabbir.cuet18@gmail.com, </span><span className="text-blue-600 underline">ssbsabbir@iiuc.ac.bd</span></p>
                         </div>
 
                         {/* Social Icons */}
